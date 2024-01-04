@@ -17,10 +17,10 @@ module.exports = {
     },
     extend: {
       animation: {
-        border: "border 9s ease infinite",
+        bg: "bg 9s ease infinite",
       },
       keyframes: {
-        border: {
+        bg: {
           "0%, 100%": { backgroundPosition: "0% 70%" },
           "70%": { backgroundPosition: "100% 30%" },
         },

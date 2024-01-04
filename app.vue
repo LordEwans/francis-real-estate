@@ -1,5 +1,10 @@
 <template>
   <div class="body animate-border">
-    <NuxtPage/>
+    <NuxtPage />
+    <Contact />
+    <Loop>
+      
+    </Loop>
+    <WIP />
   </div>
 </template>
