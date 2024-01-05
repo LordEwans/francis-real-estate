@@ -43,7 +43,7 @@
                 xmlns="http://www.w3.org/2000/svg"
                 class="h-6 w-6 fill-[var(--border-color)]"
                 viewBox="0 0 24 24"
-                stroke="var(--border-color)"
+                stroke="white"
               >
                 <path
                   stroke-linecap="round"

@@ -26,20 +26,19 @@
                 <h2
                   class="capitalize text-3xl md:text-[clamp(2.7rem,4vw,4rem)] leading-[1.1] font-extrabold"
                 >
-                  Invest your money in real value
+                  Find the best value for your money
                 </h2>
               </div>
               <div class="">
                 <button
-                  class="btn mx-6 btn-primary"
-                  onclick="waitlist.showModal()"
+                  class="btn mx-6 text-white"
                 >
                   Manage Estates
                 </button>
                 <a
                   href="https://medium.com/"
                   target="_blank"
-                  class="btn btn-ghost text-[oklch(var(--p))] hover:bg-transparent hover:underline"
+                  class="btn btn-ghost text-white hover:bg-transparent hover:underline"
                   >Learn More</a
                 >
               </div>
