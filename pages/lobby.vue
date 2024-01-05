@@ -9,7 +9,7 @@
       rel="stylesheet"
     />
   </Head>
-  <title>BottleHub - Gambling on The Edge</title>
+  <title>Francis Estates</title>
   <div class="h-screen flex">
     <div class="w-24 flex justify-center items-center">
       <AppNavigation />
