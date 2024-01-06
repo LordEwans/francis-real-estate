@@ -20,16 +20,18 @@
               <div class="w-full mb-12 md:mb-16">
                 <h1
                   class="text-2xl mb-2 lg:mb-9 md:text-[clamp(2rem,4vw,4.2rem)] leading-[1.1] capitalize"
+                  v-motion-slide-visible-bottom
                 >
                   Cheap and Affordable Properties
                 </h1>
                 <h2
                   class="capitalize text-3xl md:text-[clamp(2.7rem,4vw,4rem)] leading-[1.1] font-extrabold"
+                  v-motion-slide-visible-bottom
                 >
                   Find the best value for your money
                 </h2>
               </div>
-              <div class="">
+              <div class="" v-motion-pop-visible>
                 <button class="btn mx-6 bg-gray-700 border-gray-700 text-white">
                   Manage Estates
                 </button>
@@ -46,7 +48,7 @@
     </div>
   </div>
   <div
-    class="bg-gray-800 bg-opacity-90 w-full"
+    class="bg-gray-800 bg-opacity-80 w-full"
     style="backdrop-filter: blur(9px)"
   >
     <Content />

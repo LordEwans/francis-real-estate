@@ -5,7 +5,9 @@
   >
     <div class="">
       <div class="w-full justify-center text-center min-h-[30vh]">
-        <h1 class="font-bold text-xl md:text-2xl">Send us a message.</h1>
+        <h1 class="font-bold text-xl md:text-2xl" v-motion-pop-visible>
+          Send us a message.
+        </h1>
         <form ref="waitlist" action="" method="post" class="">
           <ContactFeedback
             :formFeedback="(formFeedback as string)"
