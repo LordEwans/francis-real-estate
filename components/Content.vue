@@ -30,7 +30,7 @@
                   </p>
                 </div>
               </div>
-              <div class="min-h-screen flex items-center">
+              <div class="min-h-[50vh] flex items-center">
                 <div>
                   <h2
                     class="capitalize text-2xl md:text-6xl leading-[1.1] font-extrabold"

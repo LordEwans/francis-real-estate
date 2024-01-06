@@ -17,6 +17,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "daisyui": "^4.4.24"
+    "daisyui": "^4.4.24",
+    "locomotive-scroll": "^4.1.4"
   }
 }
