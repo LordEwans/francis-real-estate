@@ -9,11 +9,11 @@
       rel="stylesheet"
     />
   </Head>
-  <title>Francis Estates</title>
+  <title>Francis Estates - Elegance Meets Competence</title>
+  <Navigation />
   <div class="lg:flex lg:justify-center lg:items-center min-h-screen">
     <div class="lg:container">
-      <Navigation />
-      <div class="hero w-full min-h-[65vh] md:min-h-[67vh]">
+      <div class="hero w-full min-h-screen">
         <div class="hero-content max-w-full w-full">
           <div class="text-center flex justify-center">
             <div class="md:max-w-2xl lg:max-w-6xl align-top">
@@ -30,14 +30,11 @@
                 </h2>
               </div>
               <div class="">
-                <button
-                  class="btn mx-6 text-white"
-                >
+                <button class="btn mx-6 bg-gray-700 border-gray-700 text-white">
                   Manage Estates
                 </button>
                 <a
-                  href="https://medium.com/"
-                  target="_blank"
+                  href="#learn-more"
                   class="btn btn-ghost text-white hover:bg-transparent hover:underline"
                   >Learn More</a
                 >
@@ -46,8 +43,15 @@
           </div>
         </div>
       </div>
-      <Footer />
     </div>
+  </div>
+  <div
+    class="bg-gray-800 bg-opacity-90 w-full"
+    style="backdrop-filter: blur(9px)"
+  >
+    <Content />
+    <Contact />
+    <Footer />
   </div>
 </template>
 

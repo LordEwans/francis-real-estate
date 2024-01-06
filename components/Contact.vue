@@ -1,25 +1,12 @@
 <template>
-  <dialog id="waitlist" class="modal">
-    <div class="modal-box bg-slate-950">
-      <div class="w-full justify-center text-center">
-        <h1 class="font-bold text-2xl">
-          Welcome to the front lines of the revolution.
-        </h1>
+  <div
+    class="lg:flex lg:justify-center lg:items-center bg-transparent rounded-none min-h-[40vh]"
+    id="contact"
+  >
+    <div class="">
+      <div class="w-full justify-center text-center min-h-[30vh]">
+        <h1 class="font-bold text-xl md:text-2xl">Send us a message.</h1>
         <form ref="waitlist" action="" method="post" class="">
-          <input
-            v-model="email"
-            type="text"
-            name="email"
-            placeholder="Email"
-            class="join-item input input-bordered input-primary w-full rounded-2xl mt-5"
-          />
-          <button
-            type="submit"
-            class="join-item btn btn-primary w-full rounded-2xl mt-6"
-            @click.prevent="submitEmail"
-          >
-            Submit
-          </button>
           <ContactFeedback
             :formFeedback="(formFeedback as string)"
             :isLoading="isLoading"
@@ -27,11 +14,10 @@
         </form>
       </div>
     </div>
-    <form method="dialog" class="modal-backdrop">
-      <button />
-    </form>
-  </dialog>
+  </div>
 </template>
+
+<style></style>
 
 <script setup lang="ts">
 import { ref } from "vue";

@@ -3,9 +3,8 @@
     <source src="assets/videos/bg-vid.mp4" type="video/mp4" />
   </video>
   <div class="bg-mask bg-black bg-opacity-20" id="bg-video"></div>
-  <div class="body animate-border">
+  <div class="body animate-border ">
     <NuxtPage />
-    <Contact />
     <WIP />
   </div>
 </template>
