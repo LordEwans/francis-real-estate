@@ -70,14 +70,15 @@
       <ul
         class="menu p-4 w-[70%] md:w-80 min-h-full bg-gray-800 text-base-content"
       >
+        <li class="partials"></li>
         <li class="partials">
-          <a href="#features" class="partials">Features</a>
+          <a href="#estates" class="partials">Estates</a>
         </li>
         <li class="partials">
           <a href="#ecosystem" class="partials">Ecosystem</a>
         </li>
         <li class="partials">
-          <a href="#trading" class="partials">Trading</a>
+          <a href="#contact" class="partials">Contact</a>
         </li>
       </ul>
     </div>
