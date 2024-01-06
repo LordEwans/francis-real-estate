@@ -35,7 +35,7 @@
                   <h2
                     class="capitalize text-2xl md:text-6xl leading-[1.1] font-extrabold"
                   >
-                    Understand the state of the market
+                    Understand the current state of the market
                   </h2>
                   <p
                     class="md:text-xl mb-2 lg:mb-9 leading-[1.1] capitalize mt-7"
