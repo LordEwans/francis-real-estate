@@ -11,12 +11,12 @@
               <div class="min-h-screen flex items-center">
                 <div>
                   <h2
-                    class="capitalize text-2xl md:text-6xl leading-[1.1] font-extrabold"
+                    class="capitalize text-3xl md:text-6xl leading-[1.1] font-extrabold"
                   >
                     Get exclusive access to premium properties
                   </h2>
                   <p
-                    class="md:text-xl mb-2 lg:mb-9 leading-[1.1] capitalize mt-7"
+                    class="text-2xl md:text-3xl mb-2 lg:mb-9 leading-[1.1] capitalize mt-7 content"
                   >
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Aliquid saepe et voluptatibus ex! Necessitatibus ipsum rerum
@@ -33,12 +33,12 @@
               <div class="min-h-[50vh] flex items-center">
                 <div>
                   <h2
-                    class="capitalize text-2xl md:text-6xl leading-[1.1] font-extrabold"
+                    class="capitalize text-3xl md:text-6xl leading-[1.1] font-extrabold"
                   >
                     Understand the current state of the market
                   </h2>
                   <p
-                    class="md:text-xl mb-2 lg:mb-9 leading-[1.1] capitalize mt-7"
+                    class="text-2xl md:text-3xl mb-2 lg:mb-9 leading-[1.1] capitalize mt-7 content"
                   >
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                     Facilis aperiam facere molestias est blanditiis neque natus.
@@ -58,3 +58,9 @@
     </div>
   </div>
 </template>
+
+<style>
+.content {
+  font-family: "Sever";
+}
+</style>
