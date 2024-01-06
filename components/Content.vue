@@ -1,3 +1,6 @@
+<script lang="ts" setup>
+</script>
+
 <template>
   <div
     class="lg:flex lg:justify-center lg:items-center min-w-full bg-gradient-to-tr"
@@ -21,12 +24,7 @@
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Aliquid saepe et voluptatibus ex! Necessitatibus ipsum rerum
                     pariatur. Tempore ipsam earum similique necessitatibus. Qui
-                    numquam quisquam eaque alias natus quos iste? Lorem ipsum
-                    dolor sit amet consectetur adipisicing elit. Libero eius
-                    fugit voluptatem reprehenderit, similique quibusdam iusto
-                    deleniti minima delectus, inventore tempore quisquam alias
-                    obcaecati possimus earum voluptates ipsam perspiciatis
-                    totam.
+                    numquam quisquam eaque alias natus quos iste?
                   </p>
                 </div>
               </div>
@@ -43,11 +41,7 @@
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                     Facilis aperiam facere molestias est blanditiis neque natus.
                     Repudiandae tempore praesentium velit alias iure nostrum ab
-                    expedita, ut amet deleniti fuga itaque. Lorem ipsum dolor
-                    sit, amet consectetur adipisicing elit. Inventore,
-                    voluptatum tenetur delectus amet aliquam a repellat quos,
-                    neque modi eos aperiam. Fugit architecto error libero
-                    aliquam expedita necessitatibus non dolore!
+                    expedita, ut amet deleniti fuga itaque.
                   </p>
                 </div>
               </div>
