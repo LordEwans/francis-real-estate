@@ -17,6 +17,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@vueuse/motion": "^2.0.0",
     "daisyui": "^4.4.24"
   }
 }
