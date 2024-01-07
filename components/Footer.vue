@@ -1,8 +1,8 @@
 <template>
-  <div class="lg:flex lg:justify-center lg:items-center">
+  <div class="lg:flex lg:justify-center lg:items-center rounded-none">
     <div class="lg:container">
       <div class="flex justify-center">
-        <footer class="footer footer-center p-10 w-[96%] mb-4 rounded-3xl">
+        <footer class="footer footer-center p-10 w-[96%] mb-4">
           <nav>
             <div class="grid grid-flow-col gap-6 text-[var(--text)]">
               <a
@@ -59,6 +59,6 @@
 
 <style>
 footer {
-  @apply rounded-3xl mt-4 w-[96%] border-[var(--border-color)] border-opacity-60;
+  @apply mt-4 w-[96%];
 }
 </style>

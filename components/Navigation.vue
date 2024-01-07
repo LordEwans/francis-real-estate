@@ -92,9 +92,6 @@ li.partials {
 .partials {
   @apply inline-block uppercase font-bold text-xs text-white;
 }
-.btn {
-  @apply rounded-2xl;
-}
 header {
   @apply mt-4 w-[96%] border-white border-solid border-opacity-60;
 }

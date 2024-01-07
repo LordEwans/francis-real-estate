@@ -50,7 +50,4 @@ const props = defineProps({
 </template>
 
 <style>
-div {
-  @apply rounded;
-}
 </style>

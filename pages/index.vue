@@ -1,3 +1,18 @@
+<script lang="ts" setup>
+import { useScroll } from "@vueuse/core";
+const sec = ref<HTMLElement | null>(null);
+const navStyle = ref("");
+const { x, y, isScrolling, arrivedState, directions } = useScroll(sec);
+
+if (arrivedState.bottom) {
+  //navStyle.value = "backdrop-filter: blur(9px);";
+  console.log("Yes");
+} else {
+  //navStyle.value = "backdrop-filter: blur(0px);";
+  console.log("No");
+}
+</script>
+
 <template>
   <Head>
     <meta charset="UTF-8" />
@@ -10,7 +25,7 @@
     />
   </Head>
   <title>Francis Estates - Elegance Meets Competence</title>
-  <Navigation />
+  <Navigation :style="navStyle" />
   <div class="lg:flex lg:justify-center lg:items-center min-h-screen">
     <div class="lg:container">
       <div class="hero w-full min-h-screen">
@@ -57,8 +72,4 @@
   </div>
 </template>
 
-<style>
-.btn {
-  @apply rounded-2xl;
-}
-</style>
+<style></style>
