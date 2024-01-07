@@ -13,7 +13,7 @@
               <div class="min-h-[75vh] flex items-center border-b rounded-none">
                 <div>
                   <h2
-                    class="capitalize text-3xl md:text-6xl leading-[1.1] font-extrabold"
+                    class="capitalize text-3xl md:text-4xl lg:text-6xl leading-[1.1] font-extrabold"
                     v-motion-slide-visible-right
                   >
                     Get exclusive access to premium properties
@@ -32,7 +32,7 @@
               <div class="min-h-[75vh] flex items-center border-b rounded-none">
                 <div>
                   <h2
-                    class="capitalize text-3xl md:text-6xl leading-[1.1] font-extrabold"
+                    class="capitalize text-3xl md:text-4xl lg:text-6x leading-[1.1] font-extrabold"
                     v-motion-slide-visible-left
                   >
                     Understand the current state of the market
