@@ -10,7 +10,7 @@
         <div class="text-center flex justify-center items-center">
           <div class="w-[96%] md:max-w-2xl lg:max-w-6xl align-top">
             <div class="w-full mb-12 md:mb-16">
-              <div class="min-h-screen flex items-center">
+              <div class="min-h-[75vh] flex items-center border-b rounded-none">
                 <div>
                   <h2
                     class="capitalize text-3xl md:text-6xl leading-[1.1] font-extrabold"
@@ -29,7 +29,7 @@
                   </p>
                 </div>
               </div>
-              <div class="min-h-[50vh] flex items-center">
+              <div class="min-h-[75vh] flex items-center border-b rounded-none">
                 <div>
                   <h2
                     class="capitalize text-3xl md:text-6xl leading-[1.1] font-extrabold"
