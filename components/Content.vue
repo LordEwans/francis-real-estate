@@ -46,6 +46,6 @@
 
 <style>
 .content {
-  font-family: "Sever";
+  font-family: "Bunken";
 }
 </style>
