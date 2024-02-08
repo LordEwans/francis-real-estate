@@ -6,7 +6,7 @@
           <nav>
             <div class="grid grid-flow-col gap-6 text-[var(--text)]">
               <a
-                href="https://www.youtube.com/channel/UCS_jSn_dF42NslgCwQn3CNg"
+                href=""
                 target="_blank"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -19,7 +19,7 @@
                     d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"
                   /></svg
               ></a>
-              <a href="https://x.com/BottleHub_DApp" target="_blank"
+              <a href="" target="_blank"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -31,7 +31,7 @@
                     d="m 0,0.9255 8.7314241,12.47827 -8.2723814,9.671139 h 3.2493491 l 6.4770672,-7.592229 5.311438,7.592229 H 24 L 14.867214,10.000605 22.608451,0.9255 H 19.409574 L 13.417984,7.9240981 8.5295414,0.9255 Z M 4.725015,3.3865455 H 7.2461447 L 19.277389,20.613864 H 16.77789 Z"
                   /></svg
               ></a>
-              <a href="https://discord.gg/Fpv8DR3Jey" target="_blank"
+              <a href="" target="_blank"
                 ><svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 50 50"

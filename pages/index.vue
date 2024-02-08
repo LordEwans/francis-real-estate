@@ -26,7 +26,7 @@ if (arrivedState.bottom) {
   </Head>
   <title>Francis Estates - Elegance Meets Competence</title>
   <Navigation :style="navStyle" />
-  <div class="lg:flex lg:justify-center lg:items-center min-h-screen">
+  <div class="lg:flex lg:justify-center lg:items-center min-h-screen scroll-smooth">
     <div class="lg:container">
       <div class="hero w-full min-h-screen">
         <div class="hero-content max-w-full w-full">

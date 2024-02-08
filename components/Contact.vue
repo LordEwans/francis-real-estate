@@ -1,14 +1,37 @@
 <template>
   <div
-    class="lg:flex lg:justify-center lg:items-center bg-transparent rounded-none min-h-[40vh]"
+    class="flex justify-center items-center bg-transparent rounded-none min-h-[40vh]"
     id="contact"
   >
-    <div class="">
+    <div class="w-[96%] md:max-w-xl lg:max-w-4xl">
       <div class="w-full justify-center text-center min-h-[30vh]">
-        <h1 class="font-bold text-xl md:text-2xl" v-motion-pop-visible>
+        <h1 class="font-bold text-xl md:text-2xl mb-4" v-motion-pop-visible>
           Send us a message.
         </h1>
         <form ref="waitlist" action="" method="post" class="">
+          <p class="text-left">Email.</p>
+          <input
+            type="email"
+            class="text-gray-800 w-full mb-2 h-12 rounded-lg input"
+            placeholder="johndoe@gmail.com"
+          />
+          <p class="text-left">Message.</p>
+          <textarea
+            name=""
+            id=""
+            cols="30"
+            rows="10"
+            class="resize-none text-gray-800 h-52 w-full rounded-lg input"
+            placeholder="Estate Inquiry.
+I have plans to get a new property and I'm hoping to find one with a budget of [amount] in [location].
+"
+          ></textarea>
+          <button
+            class="btn bg-gray-700 border-gray-700 text-white btn-block mt-6"
+            @click.prevent=""
+          >
+            Send Message
+          </button>
           <ContactFeedback
             :formFeedback="(formFeedback as string)"
             :isLoading="isLoading"
@@ -19,7 +42,11 @@
   </div>
 </template>
 
-<style></style>
+<style>
+.input {
+  @apply bg-white;
+}
+</style>
 
 <script setup lang="ts">
 import { ref } from "vue";
