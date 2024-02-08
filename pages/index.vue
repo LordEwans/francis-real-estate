@@ -24,7 +24,7 @@ if (arrivedState.bottom) {
       rel="stylesheet"
     />
   </Head>
-  <title>Francis Estates - Elegance Meets Competence</title>
+  <title>Franabid Properties - Elegance Meets Competence</title>
   <Navigation :style="navStyle" />
   <div class="lg:flex lg:justify-center lg:items-center min-h-screen scroll-smooth">
     <div class="lg:container">

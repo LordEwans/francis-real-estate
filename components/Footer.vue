@@ -48,7 +48,7 @@
           <aside
             class="flex max-lg:flex-col max-lg:items-center w-full text-xs md:text-sm justify-between"
           >
-            <p class="font-bold">Francis Estates <br /></p>
+            <p class="font-bold">Franabid Properties LTD. <br /></p>
             <p class="">Copyright © 2024 - All right reserved</p>
           </aside>
         </footer>

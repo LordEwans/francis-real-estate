@@ -15,7 +15,7 @@
                   href="/"
                   class="btn bg-transparent hover:bg-transparent min-h-0 h-0 p-0 border-transparent hover:border-transparent text-base text-white"
                 >
-                  Francis Estates
+                  Franabid Properties
                 </a>
               </div>
               <nav class="lg:flex justify-self-center hidden navbar-end">

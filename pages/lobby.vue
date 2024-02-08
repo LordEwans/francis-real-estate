@@ -9,7 +9,7 @@
       rel="stylesheet"
     />
   </Head>
-  <title>Francis Estates</title>
+  <title>Franabid Properties</title>
   <div class="h-screen flex">
     <div class="w-24 flex justify-center items-center">
       <AppNavigation />
