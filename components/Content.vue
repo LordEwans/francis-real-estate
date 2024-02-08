@@ -13,24 +13,28 @@
               <ContentSection
                 title="Get exclusive access to premium properties."
               >
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid
-                saepe et voluptatibus ex! Necessitatibus ipsum rerum pariatur.
-                Tempore ipsam earum similique necessitatibus. Qui numquam
-                quisquam eaque alias natus quos iste?
+                Imagine finding a hidden gem, a property that ticks all your
+                boxes before it even hits the market. With Franabid Properties'
+                exclusive access program, you can be among the first to discover
+                exciting possibilities.
               </ContentSection>
               <ContentSection
                 title="Understand the current state of the market."
               >
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Facilis aperiam facere molestias est blanditiis neque natus.
-                Repudiandae tempore praesentium velit alias iure nostrum ab
-                expedita, ut amet deleniti fuga itaque.
+                Staying informed about market trends can be valuable, whether
+                you're making personal decisions or simply curious about the
+                world around you. By actively engaging with these resources and
+                perspectives, you can gain a deeper understanding of the current
+                market state and its potential implications.
               </ContentSection>
               <ContentSection title="Join the leading property owners.">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
-                omnis eius, harum consectetur ut, vitae repellendus sequi
-                accusamus veniam qui maxime praesentium ipsam minus numquam
-                soluta repellat adipisci, delectus ipsum.
+                Franabid Properties is your trusted partner in navigating the
+                ever-changing property market. We offer a wealth of resources
+                and expertise to help you make informed decisions and achieve
+                your property goals.
+                <br />
+                Partner with Franabid Properties today and unlock your property
+                potential.
               </ContentSection>
             </div>
           </div>
