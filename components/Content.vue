@@ -46,6 +46,6 @@
 
 <style>
 .content {
-  font-family: "Bunken";
+  font-family: "TTSupermolotNeue";
 }
 </style>
